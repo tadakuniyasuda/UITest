@@ -411,6 +411,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TestSystems
   handView: {fileID: 2016669097}
+  cardData: {fileID: 0}
 --- !u!1 &990275146
 GameObject:
   m_ObjectHideFlags: 0
@@ -978,10 +979,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 2016669095}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7b341c8b93b315b4b8df3c47ab117caf, type: 3}
+  m_Script: {fileID: 11500000, guid: 802026b9bad81a443a2eec5430516509, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::HandView
-  SplineContainer: {fileID: 990275148}
+  splineContainer: {fileID: 990275148}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
